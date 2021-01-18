@@ -1,0 +1,33 @@
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Курсовое 3й курс\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.deps.json
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Курсовое 3й курс\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.runtimeconfig.json
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Курсовое 3й курс\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.runtimeconfig.dev.json
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Курсовое 3й курс\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.dll
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Курсовое 3й курс\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.pdb
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Курсовое 3й курс\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.csprojResolveAssemblyReference.cache
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Курсовое 3й курс\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Курсовое 3й курс\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Курсовое 3й курс\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.AssemblyInfo.cs
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Курсовое 3й курс\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.dll
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Курсовое 3й курс\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.pdb
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Course proj 3rd year\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.deps.json
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Course proj 3rd year\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.runtimeconfig.json
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Course proj 3rd year\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.runtimeconfig.dev.json
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Course proj 3rd year\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.dll
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Course proj 3rd year\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.pdb
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Course proj 3rd year\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.csprojResolveAssemblyReference.cache
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Course proj 3rd year\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Course proj 3rd year\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Course proj 3rd year\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.AssemblyInfo.cs
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Course proj 3rd year\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.dll
+D:\Документы\Служебные документы\РБИУ\Programming Tasks\Course proj 3rd year\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.pdb
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\ASP books library BY VIDEO\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.deps.json
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\ASP books library BY VIDEO\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.runtimeconfig.json
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\ASP books library BY VIDEO\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.runtimeconfig.dev.json
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\ASP books library BY VIDEO\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.dll
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\ASP books library BY VIDEO\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.pdb
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\ASP books library BY VIDEO\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.csprojAssemblyReference.cache
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\ASP books library BY VIDEO\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\ASP books library BY VIDEO\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\ASP books library BY VIDEO\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.AssemblyInfo.cs
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\ASP books library BY VIDEO\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.dll
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\ASP books library BY VIDEO\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.pdb
